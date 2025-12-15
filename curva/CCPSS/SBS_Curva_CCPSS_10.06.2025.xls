@@ -1,0 +1,1146 @@
+
+                          <table id="tablaDetalle"  cellpadding="0" cellspacing="0" border="0" width="680px"  >
+                            <thead>
+                            <tr>
+                                 <th class="APLI_cabeceraTabla2" style="width:120px"><strong>Sec.</strong></th>
+                                 <th class="APLI_cabeceraTabla2"  style="width:120px"><div align="center"><strong>Fecha de Proceso</strong></div></th>
+                                 <th class="APLI_cabeceraTabla2"  style="width:120px"><div align="center"><strong>Periodo (d&iacute;as)</strong></div></th>
+                                 <th class="APLI_cabeceraTabla2"  style="width:120px"> <div align="center"><strong>Tasas (%)</strong></div></th>
+                            </tr>
+                         </thead>
+                         </table>
+                         
+                         <table id="tablaCuerpo"  cellpadding="0" cellspacing="0" border="0" width="680px"  >
+                         <tbody>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">1</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">0</td>
+                               <td style="width:120px">4.2380458</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">2</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">90</td>
+                               <td style="width:120px">4.0459797</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">3</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">180</td>
+                               <td style="width:120px">3.9150908</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">4</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">270</td>
+                               <td style="width:120px">3.8346801</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">5</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">360</td>
+                               <td style="width:120px">3.7957900</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">6</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">450</td>
+                               <td style="width:120px">3.7909132</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">7</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">540</td>
+                               <td style="width:120px">3.8137547</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">8</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">630</td>
+                               <td style="width:120px">3.8590352</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">9</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">720</td>
+                               <td style="width:120px">3.9223280</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">10</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">810</td>
+                               <td style="width:120px">3.9999233</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">11</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">900</td>
+                               <td style="width:120px">4.0887158</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">12</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">990</td>
+                               <td style="width:120px">4.1861087</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">13</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">1080</td>
+                               <td style="width:120px">4.2899349</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">14</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">1170</td>
+                               <td style="width:120px">4.3983896</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">15</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">1260</td>
+                               <td style="width:120px">4.5099737</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">16</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">1350</td>
+                               <td style="width:120px">4.6234464</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">17</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">1440</td>
+                               <td style="width:120px">4.7377840</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">18</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">1530</td>
+                               <td style="width:120px">4.8521468</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">19</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">1620</td>
+                               <td style="width:120px">4.9658494</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">20</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">1710</td>
+                               <td style="width:120px">5.0783365</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">21</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">1800</td>
+                               <td style="width:120px">5.1891620</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">22</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">1890</td>
+                               <td style="width:120px">5.2979715</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">23</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">1980</td>
+                               <td style="width:120px">5.4044877</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">24</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">2070</td>
+                               <td style="width:120px">5.5084973</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">25</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">2160</td>
+                               <td style="width:120px">5.6098405</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">26</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">2250</td>
+                               <td style="width:120px">5.7084023</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">27</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">2340</td>
+                               <td style="width:120px">5.8041044</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">28</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">2430</td>
+                               <td style="width:120px">5.8968989</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">29</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">2520</td>
+                               <td style="width:120px">5.9867634</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">30</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">2610</td>
+                               <td style="width:120px">6.0736955</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">31</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">2700</td>
+                               <td style="width:120px">6.1577097</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">32</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">2790</td>
+                               <td style="width:120px">6.2388339</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">33</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">2880</td>
+                               <td style="width:120px">6.3171067</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">34</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">2970</td>
+                               <td style="width:120px">6.3925751</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">35</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">3060</td>
+                               <td style="width:120px">6.4652927</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">36</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">3150</td>
+                               <td style="width:120px">6.5353180</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">37</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">3240</td>
+                               <td style="width:120px">6.6027133</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">38</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">3330</td>
+                               <td style="width:120px">6.6675434</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">39</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">3420</td>
+                               <td style="width:120px">6.7298748</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">40</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">3510</td>
+                               <td style="width:120px">6.7897751</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">41</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">3600</td>
+                               <td style="width:120px">6.8473121</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">42</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">3690</td>
+                               <td style="width:120px">6.9025536</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">43</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">3780</td>
+                               <td style="width:120px">6.9555669</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">44</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">3870</td>
+                               <td style="width:120px">7.0064186</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">45</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">3960</td>
+                               <td style="width:120px">7.0551740</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">46</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">4050</td>
+                               <td style="width:120px">7.1018973</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">47</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">4140</td>
+                               <td style="width:120px">7.1466515</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">48</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">4230</td>
+                               <td style="width:120px">7.1894978</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">49</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">4320</td>
+                               <td style="width:120px">7.2304962</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">50</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">4410</td>
+                               <td style="width:120px">7.2697047</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">51</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">4500</td>
+                               <td style="width:120px">7.3071801</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">52</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">4590</td>
+                               <td style="width:120px">7.3429772</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">53</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">4680</td>
+                               <td style="width:120px">7.3771494</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">54</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">4770</td>
+                               <td style="width:120px">7.4097485</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">55</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">4860</td>
+                               <td style="width:120px">7.4408244</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">56</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">4950</td>
+                               <td style="width:120px">7.4704258</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">57</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">5040</td>
+                               <td style="width:120px">7.4985996</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">58</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">5130</td>
+                               <td style="width:120px">7.5253914</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">59</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">5220</td>
+                               <td style="width:120px">7.5508453</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">60</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">5310</td>
+                               <td style="width:120px">7.5750037</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">61</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">5400</td>
+                               <td style="width:120px">7.5979082</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">62</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">5490</td>
+                               <td style="width:120px">7.6195984</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">63</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">5580</td>
+                               <td style="width:120px">7.6401132</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">64</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">5670</td>
+                               <td style="width:120px">7.6594899</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">65</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">5760</td>
+                               <td style="width:120px">7.6777647</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">66</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">5850</td>
+                               <td style="width:120px">7.6949727</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">67</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">5940</td>
+                               <td style="width:120px">7.7111478</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">68</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">6030</td>
+                               <td style="width:120px">7.7263229</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">69</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">6120</td>
+                               <td style="width:120px">7.7405297</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">70</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">6210</td>
+                               <td style="width:120px">7.7537992</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">71</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">6300</td>
+                               <td style="width:120px">7.7661611</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">72</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">6390</td>
+                               <td style="width:120px">7.7776443</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">73</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">6480</td>
+                               <td style="width:120px">7.7882770</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">74</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">6570</td>
+                               <td style="width:120px">7.7980861</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">75</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">6660</td>
+                               <td style="width:120px">7.8070981</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">76</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">6750</td>
+                               <td style="width:120px">7.8153384</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">77</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">6840</td>
+                               <td style="width:120px">7.8228318</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">78</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">6930</td>
+                               <td style="width:120px">7.8296022</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">79</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">7020</td>
+                               <td style="width:120px">7.8356729</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">80</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">7110</td>
+                               <td style="width:120px">7.8410665</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">81</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">7200</td>
+                               <td style="width:120px">7.8458047</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">82</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">7290</td>
+                               <td style="width:120px">7.8499089</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">83</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">7380</td>
+                               <td style="width:120px">7.8533996</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">84</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">7470</td>
+                               <td style="width:120px">7.8562968</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">85</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">7560</td>
+                               <td style="width:120px">7.8586199</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">86</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">7650</td>
+                               <td style="width:120px">7.8603876</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">87</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">7740</td>
+                               <td style="width:120px">7.8616183</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">88</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">7830</td>
+                               <td style="width:120px">7.8623297</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">89</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">7920</td>
+                               <td style="width:120px">7.8625389</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">90</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">8010</td>
+                               <td style="width:120px">7.8622627</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">91</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">8100</td>
+                               <td style="width:120px">7.8615172</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">92</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">8190</td>
+                               <td style="width:120px">7.8603184</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">93</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">8280</td>
+                               <td style="width:120px">7.8586813</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">94</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">8370</td>
+                               <td style="width:120px">7.8566209</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">95</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">8460</td>
+                               <td style="width:120px">7.8541516</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">96</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">8550</td>
+                               <td style="width:120px">7.8512874</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">97</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">8640</td>
+                               <td style="width:120px">7.8480418</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">98</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">8730</td>
+                               <td style="width:120px">7.8444282</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">99</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">8820</td>
+                               <td style="width:120px">7.8404593</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">100</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">8910</td>
+                               <td style="width:120px">7.8361476</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">101</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">9000</td>
+                               <td style="width:120px">7.8315051</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">102</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">9090</td>
+                               <td style="width:120px">7.8265437</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">103</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">9180</td>
+                               <td style="width:120px">7.8212748</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">104</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">9270</td>
+                               <td style="width:120px">7.8157095</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">105</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">9360</td>
+                               <td style="width:120px">7.8098584</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">106</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">9450</td>
+                               <td style="width:120px">7.8037322</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">107</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">9540</td>
+                               <td style="width:120px">7.7973409</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">108</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">9630</td>
+                               <td style="width:120px">7.7906945</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">109</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">9720</td>
+                               <td style="width:120px">7.7838025</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">110</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">9810</td>
+                               <td style="width:120px">7.7766742</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">111</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">9900</td>
+                               <td style="width:120px">7.7693188</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">112</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">9990</td>
+                               <td style="width:120px">7.7617449</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">113</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">10080</td>
+                               <td style="width:120px">7.7539612</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">114</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">10170</td>
+                               <td style="width:120px">7.7459759</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">115</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">10260</td>
+                               <td style="width:120px">7.7377970</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">116</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">10350</td>
+                               <td style="width:120px">7.7294325</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">117</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">10440</td>
+                               <td style="width:120px">7.7208899</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">118</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">10530</td>
+                               <td style="width:120px">7.7121765</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">119</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">10620</td>
+                               <td style="width:120px">7.7032996</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">120</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">10710</td>
+                               <td style="width:120px">7.6942660</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">121</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">10800</td>
+                               <td style="width:120px">7.6850827</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">122</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">10890</td>
+                               <td style="width:120px">7.6757560</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">123</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">10980</td>
+                               <td style="width:120px">7.6662924</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">124</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">11070</td>
+                               <td style="width:120px">7.6566981</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">125</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">11160</td>
+                               <td style="width:120px">7.6469791</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">126</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">11250</td>
+                               <td style="width:120px">7.6371411</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">127</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">11340</td>
+                               <td style="width:120px">7.6271899</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">128</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">11430</td>
+                               <td style="width:120px">7.6171310</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">129</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">11520</td>
+                               <td style="width:120px">7.6069696</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">130</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">11610</td>
+                               <td style="width:120px">7.5967110</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">131</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">11700</td>
+                               <td style="width:120px">7.5863601</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">132</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">11790</td>
+                               <td style="width:120px">7.5759219</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">133</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">11880</td>
+                               <td style="width:120px">7.5654010</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">134</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">11970</td>
+                               <td style="width:120px">7.5548021</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">135</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">12060</td>
+                               <td style="width:120px">7.5441296</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">136</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">12150</td>
+                               <td style="width:120px">7.5333877</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">137</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">12240</td>
+                               <td style="width:120px">7.5225808</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">138</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">12330</td>
+                               <td style="width:120px">7.5117128</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">139</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">12420</td>
+                               <td style="width:120px">7.5007877</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">140</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">12510</td>
+                               <td style="width:120px">7.4898092</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">141</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">12600</td>
+                               <td style="width:120px">7.4787812</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">142</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">12690</td>
+                               <td style="width:120px">7.4677072</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">143</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">12780</td>
+                               <td style="width:120px">7.4565906</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">144</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">12870</td>
+                               <td style="width:120px">7.4454348</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">145</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">12960</td>
+                               <td style="width:120px">7.4342431</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">146</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">13050</td>
+                               <td style="width:120px">7.4230187</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">147</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">13140</td>
+                               <td style="width:120px">7.4117646</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">148</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">13230</td>
+                               <td style="width:120px">7.4004838</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">149</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">13320</td>
+                               <td style="width:120px">7.3891791</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">150</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">13410</td>
+                               <td style="width:120px">7.3778533</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">151</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">13500</td>
+                               <td style="width:120px">7.3665092</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">152</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">13590</td>
+                               <td style="width:120px">7.3551494</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">153</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">13680</td>
+                               <td style="width:120px">7.3437763</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">154</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">13770</td>
+                               <td style="width:120px">7.3323924</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">155</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">13860</td>
+                               <td style="width:120px">7.3210002</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">156</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">13950</td>
+                               <td style="width:120px">7.3096017</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">157</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">14040</td>
+                               <td style="width:120px">7.2981994</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">158</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">14130</td>
+                               <td style="width:120px">7.2867953</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">159</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">14220</td>
+                               <td style="width:120px">7.2753914</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila2"> 
+                               <td style="width:120px">160</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">14310</td>
+                               <td style="width:120px">7.2639899</td>
+                           </tr>
+                         
+                           <tr style="text-align:center;" id="trFilaRep" class="APLI_tabla2_Fila1"> 
+                               <td style="width:120px">161</td>
+                               <td style="width:120px">10/06/2025</td>
+                               <td style="width:120px">14400</td>
+                               <td style="width:120px">7.2525926</td>
+                           </tr>
+                         
+                           </tbody>
+                          </table>
+        
+                         
