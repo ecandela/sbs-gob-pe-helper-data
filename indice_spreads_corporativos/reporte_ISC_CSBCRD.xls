@@ -1,10 +1,14 @@
 
  <TABLE BORDER=1>
- <TR><TD><B>Rango de Fechas del </B></TD><TD><B>14/12/2006</B></TD><TD><B> al</B></TD><TD><B>19/12/2025</B></TD></TR>
+ <TR><TD><B>Rango de Fechas del </B></TD><TD><B>14/12/2006</B></TD><TD><B> al</B></TD><TD><B>22/12/2025</B></TD></TR>
  <TR><TD><B>Fecha de Proceso</B></TD><TD><B>Tipo de Curva</B></TD>
  <TD><B>Clasificaci&oacute;n</B></TD>
  <TD><B>Indice de Spread</B></TD>
  <!--<TD><B>Indicador de Ingreso</B></TD>-->
+ </TR>
+ 
+ <TR><TD>22/12/2025</TD><TD>CSBCRD</TD><td>4</td><td> 2.2593</td>
+<!-- <td>S</td>-->
  </TR>
  
  <TR><TD>19/12/2025</TD><TD>CSBCRD</TD><td>4</td><td> 2.2593</td>
